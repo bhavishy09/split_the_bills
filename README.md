@@ -1,4 +1,4 @@
-spilt_the_bills
+
 spilt_the_bills is a full-stack web application designed to simplify group expense tracking and settlement. Whether you're managing trip expenses, shared household costs, or any group-related finances, spilt_the_bills provides an intuitive platform to keep everything organized.
 
 🌐 Live Demo
