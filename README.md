@@ -17,6 +17,8 @@ Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 Deployment: Render
 📂 Project Structure
+
+
 SplitEase2/
 ├── backend/
 │   ├── controllers/
@@ -34,6 +36,9 @@ SplitEase2/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+
+
 🧰 Prerequisites
 Ensure you have the following installed:
 
